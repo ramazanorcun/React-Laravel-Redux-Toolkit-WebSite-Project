@@ -1,0 +1,29 @@
+.liste{
+    padding: 10px 20px;
+    background-color: white;
+    border: 2px solid darkorange;
+    color: darkorange;
+    border-radius: 50px;
+}
+.liste:hover{
+    background-color: darkorange;
+    color: white;
+}
+footer{
+    
+    padding: 2rem;
+    background: gray;
+    margin-top: 30vh;
+    font-size: 30px;
+    color: white;
+}
+footer a{
+    color: yellowgreen;
+}
+.text{
+    text-align: center;
+}
+#f-button:hover{
+    background-color: burlywood;
+    border-color: white;
+}
